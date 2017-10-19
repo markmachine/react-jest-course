@@ -1,0 +1,6 @@
+.idea
+.idea/*
+bower_components
+coverage
+node_modules
+npm-debug.log
